@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="numero1">Ingrese el número 1</string>
+    <string name="numero2">Ingrese el número 2</string>
+    <string name="calcular">Multiplicar</string>
+    <string name="resultado">El resultado de la multiplicación es: %s</string>
+</resources>
